@@ -1,5 +1,20 @@
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+# Site configuration
 title: Hoang's homepage
 description: Bookmark this to keep an eye on my project updates!
+
+# Use GitHub Pages Minimal theme
+remote_theme: pages-themes/minimal@v0.2.0
+
+# Enable the remote theme plugin
+plugins:
+  - jekyll-remote-theme
+
+# Ensure the home page renders from README.md
+markdown: kramdown
+show_downloads: false
+include:
+  - README.md
+
+# Optional — GitHub Pages settings
+# (auto-detected if hosted in a repo like username.github.io)
+repository: hoangnguyenduc3009/hoangnguyenduc3009.github.io
