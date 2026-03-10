@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Privacy Policy - Ngữ Pháp Tiếng Anh – Grammar
+title: Privacy Policy - English Grammar - Ngữ pháp
 ---
 
-# Privacy Policy for Ngữ Pháp Tiếng Anh – Grammar
+# Privacy Policy for English Grammar - Ngữ pháp
 
 **Last updated: March 07, 2026**
 
 ## 1. Introduction
-Your privacy is important to us. It is our policy to respect your privacy regarding any information we may collect while operating our application, **Ngữ Pháp Tiếng Anh – Grammar**.
+Your privacy is important to us. It is our policy to respect your privacy regarding any information we may collect while operating our application, **English Grammar - Ngữ pháp**.
 
 ## 2. Information Collection and Use
 We do not collect, store, or share any personal data from our users. However, the app uses third-party services that may collect information used to identify you.
